@@ -70,7 +70,7 @@ Challengers Workshop/
 
 ## Link to demo Full-Stack Website
 ```
-    https://fullstackmlworkshop.netlify.app
+https://fullstackmlworkshop.netlify.app
 ```
 
 
